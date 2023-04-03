@@ -1,0 +1,15 @@
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/bin/Debug/net7.0/duplicated-products
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/bin/Debug/net7.0/duplicated-products.deps.json
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/bin/Debug/net7.0/duplicated-products.runtimeconfig.json
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/bin/Debug/net7.0/duplicated-products.dll
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/bin/Debug/net7.0/duplicated-products.pdb
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/obj/Debug/net7.0/duplicated-products.csproj.AssemblyReference.cache
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/obj/Debug/net7.0/duplicated-products.GeneratedMSBuildEditorConfig.editorconfig
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/obj/Debug/net7.0/duplicated-products.AssemblyInfoInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/obj/Debug/net7.0/duplicated-products.AssemblyInfo.cs
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/obj/Debug/net7.0/duplicated-products.csproj.CoreCompileInputs.cache
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/obj/Debug/net7.0/duplicated-products.dll
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/obj/Debug/net7.0/refint/duplicated-products.dll
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/obj/Debug/net7.0/duplicated-products.pdb
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/obj/Debug/net7.0/duplicated-products.genruntimeconfig.cache
+/home/ericluizlucas/Documents/study/dotnet/duplicated-products/obj/Debug/net7.0/ref/duplicated-products.dll
